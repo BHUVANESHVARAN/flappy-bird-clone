@@ -1,0 +1,7 @@
+flappy bird clone :
+
+the game about bird escaping the pipes which spawns in the top and bottom.
+the placements of the pipe may vary but the gap between them  should be same.
+the size of the bird shouls be smaller than the gap between the pipes which the bird can pass through.
+
+bird model already uploaded in the repo use it
